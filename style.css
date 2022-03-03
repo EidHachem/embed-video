@@ -1,0 +1,46 @@
+* {
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-bar {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    height: 40px;
+    width: auto;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 5px;
+}
+
+.nav-bar-item {
+    text-decoration: none;
+}
+
+.nav-bar img{
+        height: 50px;
+        width: auto;
+}
+
+#nav-bar-logo {
+    width: 150px;
+    height: 25px;
+    margin-top: 10px;}
+
+#search {
+    margin-top: 10px;
+    width: 250px;
+    background-color: rgb(218, 204, 204);
+}
+.video {
+    display: flex;
+}
+iframe {
+    width: 5000px;
+    height: auto;
+}
+
+.recommanded-list {
+    list-style: none;
+}
